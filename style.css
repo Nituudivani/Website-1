@@ -1,0 +1,201 @@
+.main-logo{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* padding-left: 12px; */
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.nav{
+    margin-left: 20px;
+    font-size:larger;
+    
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+
+.content{
+    justify-content: center;
+    background-color: black;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+
+p,h1{
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    text-decoration: none;
+        
+}
+p{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+} 
+
+.create{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.zip{
+    background-color: orange;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 10px;
+
+}
+
+.zip p{
+    color: orange;
+    margin: 0;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* align-items: center; */
+    /* /* text-align: center; */
+    line-height: 35px;
+}
+
+.footer-link{
+    height: 400px;
+    width: auto;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+.footer-col1{
+    width: 25%;
+    margin-top: 25px;
+    margin-left: 15px;
+    font-size: larger;
+    text-align: center;
+}
+
+.footer-col2{
+    width: 25%;
+    margin-top: 25px;
+    font-size: larger;
+    text-align: center;
+    /* margin-left: 15px; */
+}
+
+.footer-col3{
+    width: 25%;
+    margin-top: 25px;
+    font-size: larger;
+    text-align: center;
+    /* margin-left: 15px; */
+}
+
+.footer-col4{
+    width: 25%;
+    margin-top: 25px;
+    font-size: larger;
+    text-align: center;
+    /* margin-left: 15px; */
+}
+
+h3{
+    color: white;
+    color: gray;
+}
+
+.social-icon{
+    color: white;
+    text-align: center;
+    margin-right: 40px;
+
+}
+
+h1{
+    color: gray;
+
+}
+
+i{
+    color: whitesmoke;
+    margin-top: 20px;
+    font: 23px  "open sans",sans-serif;
+    padding: 15px;
+    
+}
+
+label{
+    
+    color: white;
+    margin-top: 60px;
+    padding: 20px;
+    font-size: larger;
+
+}
+
+input{
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 15px;
+    
+
+}
+button{
+    color: black;
+    padding: 15px;
+    background-color: white;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+h4{
+    color: white;
+    text-align: right;
+    margin-top: 20px;
+    padding: 10px;
+    
+
+}
