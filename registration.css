@@ -10,7 +10,7 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: black;
+    /* background-color: black;  */
 
 }
 
@@ -88,6 +88,7 @@ p {
     margin: 0;
     font-size: 20px;
     padding: 10px;
+    background-color: black;
 }
 
 .row {
@@ -178,8 +179,8 @@ i {
 label {
 
     color: black;
-    /* margin-top: 60px; */
-    /* padding: 20px; */
+    margin-top: 60px;
+    padding: 20px;
     font-size: larger;
     font-weight: 900;
 
@@ -198,6 +199,11 @@ button {
     color: black;
     padding: 15px;
     background-color: white;
+}
+
+.btn {
+    margin-left: 150px;
+
 }
 
 h2 {
@@ -235,6 +241,18 @@ form {
     box-shadow: 10px 10px 200px;
     color: black;
     background: linear-gradient(blue, pink, yellow, orange);
-    margin-top: 20px;
+    /* margin-top: 20px; */
 
+}
+
+
+
+.k {
+    background: linear-gradient(rgba(30, 55, 219, 0.933), rgba(255, 255, 255, 0.814));
+
+}
+
+.head {
+    color: black;
+    padding: 20px;
 }
